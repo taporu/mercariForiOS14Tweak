@@ -1,0 +1,9 @@
+Package: com.taporu.mercariforios14tweak
+Name: mercariForiOS14Tweak
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Change Mercari app version for iOS14
+Maintainer: taporu
+Author: taporu
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
