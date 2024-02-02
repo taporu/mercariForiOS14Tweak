@@ -1,6 +1,7 @@
 # mercariForiOS14Tweak
 This is a jailbreak tweak for using Mercari app with iOS14 after 2024/01/29.
-This tweak can spoof to Mercari version 5.84.0.
+This tweak can spoof to Mercari version 5.84.0.  
+メルカリをiOS14でも使用することができるようにする脱獄用Tweakです。使用するにはiPhoneまたはiPadを脱獄している必要があります。
 
 # How to use
 1. Install Mercari app version 5.62.0.
@@ -8,5 +9,5 @@ This tweak can spoof to Mercari version 5.84.0.
 3. Run Mercari app.
 
 # License
-MIT License
+MIT License.
 We are not responsible by using this twaek.
